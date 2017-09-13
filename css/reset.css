@@ -105,4 +105,6 @@ input, select {
   position: relative;
   left: 1100px;
   top:450px;
+  width:400;
+  Height: 400;
 }
